@@ -1,0 +1,5 @@
+{
+  "name": "Zen Todo",
+  "description": "A minimalist, focused todo list application with PWA support and dark mode.",
+  "requestFramePermissions": []
+}
